@@ -1,0 +1,15 @@
+C:\C#_Seminar4_DZ\Zadahya25\bin\Debug\net6.0\Zadahya25.exe
+C:\C#_Seminar4_DZ\Zadahya25\bin\Debug\net6.0\Zadahya25.deps.json
+C:\C#_Seminar4_DZ\Zadahya25\bin\Debug\net6.0\Zadahya25.runtimeconfig.json
+C:\C#_Seminar4_DZ\Zadahya25\bin\Debug\net6.0\Zadahya25.dll
+C:\C#_Seminar4_DZ\Zadahya25\bin\Debug\net6.0\Zadahya25.pdb
+C:\C#_Seminar4_DZ\Zadahya25\obj\Debug\net6.0\Zadahya25.csproj.AssemblyReference.cache
+C:\C#_Seminar4_DZ\Zadahya25\obj\Debug\net6.0\Zadahya25.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_Seminar4_DZ\Zadahya25\obj\Debug\net6.0\Zadahya25.AssemblyInfoInputs.cache
+C:\C#_Seminar4_DZ\Zadahya25\obj\Debug\net6.0\Zadahya25.AssemblyInfo.cs
+C:\C#_Seminar4_DZ\Zadahya25\obj\Debug\net6.0\Zadahya25.csproj.CoreCompileInputs.cache
+C:\C#_Seminar4_DZ\Zadahya25\obj\Debug\net6.0\Zadahya25.dll
+C:\C#_Seminar4_DZ\Zadahya25\obj\Debug\net6.0\refint\Zadahya25.dll
+C:\C#_Seminar4_DZ\Zadahya25\obj\Debug\net6.0\Zadahya25.pdb
+C:\C#_Seminar4_DZ\Zadahya25\obj\Debug\net6.0\Zadahya25.genruntimeconfig.cache
+C:\C#_Seminar4_DZ\Zadahya25\obj\Debug\net6.0\ref\Zadahya25.dll
